@@ -34,7 +34,7 @@ The model is trained on a labeled dataset of news articles and can predict wheth
 ---
 
 ## Dataset
-The dataset used for this project is [Fake News Dataset](https://gitlab.com/atlonxp/siit-nlp/-/raw/main/dl-rnn/fake-new-dataset.zip?ref_type=heads&inline=false). It contains two CSV files:
+The dataset used for this project is [Fake News Dataset](https://gitlab.com/atlonxp/siit-nlp/-/raw/main/dl-rnn/fake-new-dataset.zip?ref_type=heads&inline=false). It contains one CSV file:
 - `fake-news-dataset`: Articles labeled as real and fake news.
 - 
 dataset contains the following columns:
