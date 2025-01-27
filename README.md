@@ -14,12 +14,7 @@ A deep learning-based project to detect fake news using Long Short-Term Memory (
 2. [Features](#features)
 3. [Dataset](#dataset)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Model Architecture](#model-architecture)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
+5. [Results](#results)
 
 ---
 
@@ -56,5 +51,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone [https://github.com/MoaazMahmoud22/Human-Face-Detection-with-LSTM.git]
    cd fake-news-detection
+
+## Results
+![image](https://github.com/user-attachments/assets/169efe51-fec0-42ce-b3af-b8a02a0df6fc)
+
+
+
