@@ -35,14 +35,12 @@ The model is trained on a labeled dataset of news articles and can predict wheth
 
 ## Dataset
 The dataset used for this project is [Fake News Dataset](https://gitlab.com/atlonxp/siit-nlp/-/raw/main/dl-rnn/fake-new-dataset.zip?ref_type=heads&inline=false). It contains two CSV files:
-- `True.csv`: Articles labeled as real news.
-- `Fake.csv`: Articles labeled as fake news.
-
-Each dataset contains the following columns:
+- `fake-news-dataset`: Articles labeled as real and fake news.
+- 
+dataset contains the following columns:
 - `title`: The title of the news article.
 - `text`: The content of the news article.
-- `subject`: The subject or category of the news.
-- `date`: The publication date.
+- `label`: The index of the news article.
 
 ---
 
